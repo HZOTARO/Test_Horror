@@ -19,4 +19,4 @@ The experience takes place in a single indoor room using Marketplace assets, foc
 No known issues currently
 
 # What I Would Do With More Time
-If I have more time, I would made the code cleaner, more modular, and scalable. I would also refine the overall atmospheric feel by adjusting event pacing and deliberate delays to better build tension. Additionally, I would explore the feasibility of expanding the scope to include an outdoor environment rather than restricting the experience to a single room, and implement more immersive visual transitions such as a physical eye blinking effect instead of relying on standard screen fadein and fadeout
+If I had more time, I would make the code cleaner, more modular, and scalable. I would also refine the overall atmospheric feel by adjusting event pacing and deliberate delays to better build tension. Additionally, I would explore the feasibility of expanding the scope to include an outdoor environment rather than restricting the experience to a single room, and implement more immersive visual transitions such as a physical eye blinking effect instead of relying on standard screen fadein and fadeout
